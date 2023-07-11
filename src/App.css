@@ -1,3 +1,17 @@
+body{
+    margin-top: 50px;
+    background-color:#15202b;
+}
+
+.centerAll{
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    color:antiquewhite;
+}
+
+
+
 img{
     width: 300px;
     border: 1px solid black;
